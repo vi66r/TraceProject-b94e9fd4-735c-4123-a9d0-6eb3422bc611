@@ -15,7 +15,7 @@ struct ContentView: View {
                     }
                     .padding()
                 }
-                .navigationBarTitle("Halloween Rentals")
+                .navigationBarTitle("Halloween Airbnb")
                 .background(Color.orange.opacity(0.2))
             }
             .tabItem {
